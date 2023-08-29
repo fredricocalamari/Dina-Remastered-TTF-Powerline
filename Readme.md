@@ -2,6 +2,7 @@
 This is the DinaRemasteredCollection TTF font patched for supporting powerline. This means you can now use the Dina Remastered font in Windows Terminal with full support for powerline glyphs.
 
 *Windows Terminal WSL2 Fedora 38 tmux*
+
 ![](Images/PowerlineExample.png?raw=true)
 
 # Update 12/20/2020
