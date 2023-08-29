@@ -1,5 +1,8 @@
 # Powerline update 8/28/2023
-This is the DinaRemasteredCollection TTF font patched for supporting powerline. This means you can now use Dina Remastered in Windows Terminal with full support for powerline glyphs.
+This is the DinaRemasteredCollection TTF font patched for supporting powerline. This means you can now use the Dina Remastered font in Windows Terminal with full support for powerline glyphs.
+
+*Windows Terminal WSL2 Fedora 38 tmux*
+![](Images/PowerlineExample.png?raw=true)
 
 # Update 12/20/2020
 A slight edit of the original Dina font has been added to this repository as well. The original, DinaRemasterCollection.ttc, is still available, and is still a direct copy of Dina. However, DinaRemasterII.ttc contains a few edits. The + sign has been enlarged by 1px in all directions, the = sign has been spaced out by 1px vertically, and Z has had its slash portion rearranged to make it appear less like the number 2.
